@@ -1,5 +1,10 @@
 # 💫 About Me:
-Desenvolvimento de aplicações com foco em back-end e integração de sistemas<br>Criação de APIs, automações e ferramentas internas voltadas à eficiência operacional<br>Experiência com arquitetura de sistemas, organização de código e separação de responsabilidades<br>Aplicação de boas práticas de desenvolvimento, incluindo código limpo, legibilidade e tratamento de erros<br>Integração com serviços externos e consumo de APIs<br>Conhecimento em segurança de aplicações e gestão de variáveis sensíveis<br>Atuação com versionamento de código, controle de branches e revisão de código<br>Capacidade de análise, resolução de problemas e melhoria contínua de sistemas
+Minha trajetória na tecnologia é marcada por experiências práticas em desenvolvimento full stack, desde projetos freelancer até atuação
+em uma empresa internacional, contribuindo para a manutenção, evolução e modernização de aplicações web. Também desenvolvi
+aplicações mobile voltadas à automação de processos gerenciais e integração com serviços financeiros. Acredito que boas soluções
+começam pela compreensão do problema, por isso valorizo código limpo, aprendizado contínuo e colaboração em equipe. Atualmente
+curso Engenharia de Software e busco contribuir para o desenvolvimento de soluções escaláveis e de qualidade, enquanto continuo
+evoluindo técnica e profissionalmente.
 
 
 ## 🌐 Socials:
