@@ -17,7 +17,7 @@
 
 - 🎓 Cursando **Engenharia de Software** na Cruzeiro do Sul (2º semestre) · Técnico em Desenvolvimento de Software pelo **SENAI**
 - 💼 Experiência fullstack em produção: migração de **Vue 2 → Vue 3** com Pinia/Composition API, back-end em **Node.js**, infraestrutura em **GCP/Terraform**, atuando em time internacional (Zero Hour Health, EUA)
-- 🧩 Também construo soluções mobile e back-end com **Kotlin**, **Java** e **Flask**
+- 🧩 Também construo soluções mobile
 - 🌱 Aprendendo continuamente: já concluí trilhas de AWS, GCP, Terraform, Docker, Git, TypeScript e Vue 3
 - 🗣️ Inglês técnico intermediário (B2 leitura/escrita) — experiência real em reuniões e code reviews com times internacionais
 
@@ -76,15 +76,6 @@
 | **[Calculadora Web](https://github.com/mariacabreu/Calculadora-Web)** | API REST para operações matemáticas com persistência do histórico via JPA/Hibernate, consumida por um front-end via fetch | Spring Boot · JPA/Hibernate · H2 |
 | **[SecureAccess](https://github.com/mariacabreu/SecureAccess)** | Módulo de autenticação corporativa com cadastro de usuários, controle de acesso por níveis e bloqueio automático de conta | Java Web · Testes Automatizados |
 | **[Teste-Java](https://github.com/mariacabreu/Teste-Java)** | Projeto de estudos de testes de sistemas com JUnit Jupiter | Java · JUnit Jupiter · Maven |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariacabreu&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacabreu&layout=compact&hide_border=true" height="165" />
-</p>
 
 ---
 
