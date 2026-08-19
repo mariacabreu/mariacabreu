@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Maria Clara 👋</h1>
+<h1 align="center">Olá, eu sou a Maria Clara Abreu👋</h1>
 <h3 align="center">Desenvolvedora Fullstack Júnior · Salvador, BA — Brasil</h3>
 
 <p align="center">
