@@ -1,14 +1,91 @@
-# 💫 About Me:
-Minha trajetória na tecnologia é marcada por experiências práticas em desenvolvimento full stack, desde projetos freelancer até atuação
-em uma empresa internacional, contribuindo para a manutenção, evolução e modernização de aplicações web. Também desenvolvi
-aplicações mobile voltadas à automação de processos gerenciais e integração com serviços financeiros. Acredito que boas soluções
-começam pela compreensão do problema, por isso valorizo código limpo, aprendizado contínuo e colaboração em equipe. Atualmente
-curso Engenharia de Software e busco contribuir para o desenvolvimento de soluções escaláveis e de qualidade, enquanto continuo
-evoluindo técnica e profissionalmente.
+<h1 align="center">Olá, eu sou a Maria Clara 👋</h1>
+<h3 align="center">Desenvolvedora Fullstack Júnior · Salvador, BA — Brasil</h3>
 
+<p align="center">
+  Construindo soluções de ponta a ponta com <b>Vue.js</b>, <b>React</b>, <b>Node.js</b>, <b>Java/Spring Boot</b> e <b>Python</b> —
+  hoje cursando Engenharia de Software e aprendendo um pouco mais a cada projeto.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mariacabreu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariaclaraabreu050@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/mariacabreu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mariaclaraabreu050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+---
+
+### 🚀 Sobre mim
+
+- 🎓 Cursando **Engenharia de Software** na Cruzeiro do Sul (2º semestre) · Técnico em Desenvolvimento de Software pelo **SENAI**
+- 💼 Experiência fullstack em produção: migração de **Vue 2 → Vue 3** com Pinia/Composition API, back-end em **Node.js**, infraestrutura em **GCP/Terraform**, atuando em time internacional (Zero Hour Health, EUA)
+- 🧩 Também construo soluções mobile e back-end com **Kotlin**, **Java** e **Flask**
+- 🌱 Aprendendo continuamente: já concluí trilhas de AWS, GCP, Terraform, Docker, Git, TypeScript e Vue 3
+- 🗣️ Inglês técnico intermediário (B2 leitura/escrita) — experiência real em reuniões e code reviews com times internacionais
+
+---
+
+### 🛠️ Stack Técnico
+
+**Front-end**
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**Back-end**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+</p>
+
+**Dados & Infraestrutura**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+**Testes**
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-1F1F1F?style=flat-square" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[AMP](https://github.com/mariacabreu)** | App de manutenção veicular, com controle de checklists, relatórios e limites por plano de assinatura | React Native/Expo · Flask · SQLite |
+| **[AutoPix](https://github.com/mariacabreu/AutoPix)** | App para pequenos comerciantes acompanharem recebimentos via Pix: leitura por voz das notificações e emissão automática de recibo em impressora térmica Bluetooth | Kotlin · Android |
+| **[SwiftDesk](https://github.com/mariacabreu/SwiftDesk)** | Sistema de Help Desk para gerenciamento de chamados de TI, com ciclo completo de atendimento e integração com a API ViaCEP | Python (Flask) · SQLAlchemy ORM · Next.js |
+| **[Calculadora Web](https://github.com/mariacabreu/Calculadora-Web)** | API REST para operações matemáticas com persistência do histórico via JPA/Hibernate, consumida por um front-end via fetch | Spring Boot · JPA/Hibernate · H2 |
+| **[SecureAccess](https://github.com/mariacabreu/SecureAccess)** | Módulo de autenticação corporativa com cadastro de usuários, controle de acesso por níveis e bloqueio automático de conta | Java Web · Testes Automatizados |
+| **[Teste-Java](https://github.com/mariacabreu/Teste-Java)** | Projeto de estudos de testes de sistemas com JUnit Jupiter | Java · JUnit Jupiter · Maven |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariacabreu&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacabreu&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+<p align="center">📫 Vamos conversar: <b>mariaclaraabreu050@gmail.com</b> · <a href="https://linkedin.com/in/mariacabreu">linkedin.com/in/mariacabreu</a></p>
