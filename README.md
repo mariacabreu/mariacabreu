@@ -15,7 +15,8 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando **Engenharia de Software** na Cruzeiro do Sul (2º semestre) · Técnico em Desenvolvimento de Software pelo **SENAI**
+- 🎓 Cursando **Engenharia de Software** na Cruzeiro do Sul (2º semestre)
+- 🎓 Técnica em **Desenvolvimento de Sistemas** pelo SENAI
 - 💼 Experiência fullstack em produção: migração de **Vue 2 → Vue 3** com Pinia/Composition API, back-end em **Node.js**, infraestrutura em **GCP/Terraform**, atuando em time internacional (Zero Hour Health, EUA)
 - 🧩 Também construo soluções mobile
 - 🌱 Aprendendo continuamente: já concluí trilhas de AWS, GCP, Terraform, Docker, Git, TypeScript e Vue 3
